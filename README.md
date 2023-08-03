@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-<h2>📄 Certifications:</h2>
+<h2>📄 Certifications and Education:</h2>
 
 - <a href="https://www.credly.com/badges/3772bcdb-a78b-4cd6-8219-d7022dab4608"><b>CompTIA Security+</b></a>
 - <a href="https://www.credly.com/badges/b329aab7-cdb4-4285-a6b5-05775ed3f3b1"><b>CompTIA Network+</b></a>
@@ -29,6 +29,7 @@
 - <b>CompTIA CySA+</b>
 - <b>CompTIA PenTest+</b>
 - <b>ITIL Service Operation</b>
+- <a href="https://lab.infoseclearning.com/performance-report/1953/129799/pdf"><b>Infosec CySA+ Lab Report</b></a>
 
 <h2>📺 Popular YouTube Videos</h2>
 
