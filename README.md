@@ -19,8 +19,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications and Education:</h2>
 
-- <b>SSCP</b>
 - <b>CompTIA PenTest+</b>
+- <a href="https://www.credly.com/earner/earned/badge/cea6b9cd-077a-4ebf-beb3-4cd7044f540c"><b>SSCP</b>
 - <a href="https://www.credly.com/earner/earned/badge/7101fa2e-aa0e-44e8-b7ce-1cf29adc1e41"><b>CompTIA CySA+</b></a>
 - <a href="https://www.credly.com/earner/earned/badge/74b1f4f5-56f3-4801-b3e4-b8fcbecc65b0"><b>CompTIA Security Analytics Professional</b></a>
 - <a href="https://www.credly.com/badges/3772bcdb-a78b-4cd6-8219-d7022dab4608"><b>CompTIA Security+</b></a>
