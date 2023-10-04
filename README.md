@@ -19,16 +19,17 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications and Education:</h2>
 
+- <a href="https://www.credly.com/earner/earned/badge/7101fa2e-aa0e-44e8-b7ce-1cf29adc1e41"><b>CompTIA CySA+</b></a>
+- <a href="https://www.credly.com/earner/earned/badge/74b1f4f5-56f3-4801-b3e4-b8fcbecc65b0"><b>CompTIA Security Analytics Professional</b></a>
 - <a href="https://www.credly.com/badges/3772bcdb-a78b-4cd6-8219-d7022dab4608"><b>CompTIA Security+</b></a>
 - <a href="https://www.credly.com/badges/b329aab7-cdb4-4285-a6b5-05775ed3f3b1"><b>CompTIA Network+</b></a>
-- <a href="https://www.credly.com/badges/a2da6095-9346-47bf-8d9c-f57fa6d0d2bb"><b>CompTIA Project+</b></a>
-- <a href="https://www.credly.com/badges/ecc9a172-9019-4685-b431-1817535c1504"><b>CompTIA A+</b></a>
 - <a href="https://www.credly.com/badges/24849907-b41a-4fac-a6bc-1548424e750d"><b>CompTIA IT Operations Specialist</b></a>
 - <a href="https://www.credly.com/badges/8211f794-3ef0-4e30-8088-7d59a779dd26"><b>CompTIA Secure Infrastructure Specialist</b></a>
-- <b>SSCP</b>
-- <b>CompTIA CySA+</b>
 - <b>CompTIA PenTest+</b>
+- <a href="https://www.credly.com/badges/a2da6095-9346-47bf-8d9c-f57fa6d0d2bb"><b>CompTIA Project+</b></a>
+- <a href="https://www.credly.com/badges/ecc9a172-9019-4685-b431-1817535c1504"><b>CompTIA A+</b></a>
 - <b>ITIL Service Operation</b>
+- <b>SSCP</b>
 - <a href="https://lab.infoseclearning.com/performance-report/1953/129799/pdf"><b>Infosec CySA+ Lab Report</b></a>
 
 <!--<h2>📺 Popular YouTube Videos</h2>
