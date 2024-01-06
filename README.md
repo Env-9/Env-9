@@ -19,17 +19,18 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📄 Certifications and Education:</h2>
 
-- <b>CompTIA PenTest+</b>
-- <a href="https://www.credly.com/earner/earned/badge/4eabd4ac-5e98-4c6f-9d97-9b6e463708d2"><b>PenTest+</b></a>
-- <a href="https://www.credly.com/earner/earned/badge/cea6b9cd-077a-4ebf-beb3-4cd7044f540c"><b>Associate of ISC2 SSCP</b></a>
-- <a href="https://www.credly.com/earner/earned/badge/7101fa2e-aa0e-44e8-b7ce-1cf29adc1e41"><b>CompTIA CySA+</b></a>
-- <a href="https://www.credly.com/earner/earned/badge/74b1f4f5-56f3-4801-b3e4-b8fcbecc65b0"><b>CompTIA Security Analytics Professional</b></a>
-- <a href="https://www.credly.com/badges/3772bcdb-a78b-4cd6-8219-d7022dab4608"><b>CompTIA Security+</b></a>
-- <a href="https://www.credly.com/badges/b329aab7-cdb4-4285-a6b5-05775ed3f3b1"><b>CompTIA Network+</b></a>
-- <a href="https://www.credly.com/badges/24849907-b41a-4fac-a6bc-1548424e750d"><b>CompTIA IT Operations Specialist</b></a>
-- <a href="https://www.credly.com/badges/8211f794-3ef0-4e30-8088-7d59a779dd26"><b>CompTIA Secure Infrastructure Specialist</b></a>
-- <a href="https://www.credly.com/badges/a2da6095-9346-47bf-8d9c-f57fa6d0d2bb"><b>CompTIA Project+</b></a>
-- <a href="https://www.credly.com/badges/ecc9a172-9019-4685-b431-1817535c1504"><b>CompTIA A+</b></a>
+- <a href="https://www.credly.com/badges/cea6b9cd-077a-4ebf-beb3-4cd7044f540c/public_url"><b>Associate of ISC2 SSCP</b></a>
+- <a href="https://www.credly.com/badges/4eabd4ac-5e98-4c6f-9d97-9b6e463708d2/public_url"><b>CompTIA PenTest+</b></a>
+- <a href="https://www.credly.com/badges/6bb8f902-91df-4d60-8a5c-7594311a295c/public_url"><b>CompTIA CySA+</b></a>
+- <a href="https://www.credly.com/badges/8c875e76-7c5c-45ed-89ba-1a94f32d61ac/public_url"><b>CompTIA Security+</b></a>
+- <a href="https://www.credly.com/badges/583e11f2-400f-4d18-97b4-de287c5a43a9/public_url"><b>CompTIA Network+</b></a>
+- <a href="https://www.credly.com/badges/a2da6095-9346-47bf-8d9c-f57fa6d0d2bb/public_url"><b>CompTIA Project+</b></a>
+- <a href="https://www.credly.com/badges/388b456e-6d9b-49c8-a0aa-48d178401268/public_url"><b>CompTIA A+</b></a>
+- <a href="https://www.credly.com/badges/5c75f303-1f92-4ac0-bf55-0fd7819fe339/public_url"><b>CompTIA Network Vulnerability Assessment Professional</b></a>
+- <a href="https://www.credly.com/badges/b2c4d2eb-655d-4b0c-bdfc-e95f113d4add/public_url"><b>CompTIA Network Security Professional</b></a>
+- <a href="https://www.credly.com/badges/ebceeaf3-0759-4c74-ac4a-fe52994e7ea9/public_url"><b>CompTIA Security Analytics Professional</b></a>
+- <a href="https://www.credly.com/badges/16b4c9ea-7130-4486-88af-acc2f5e0c143/public_url"><b>CompTIA IT Operations Specialist</b></a>
+- <a href="https://www.credly.com/badges/ee9e8e38-17ab-4deb-a6ea-37909d68dd4e/public_url"><b>CompTIA Secure Infrastructure Specialist</b></a>
 - <b>ITIL Service Operation</b>
 
 <!--<h2>📺 Popular YouTube Videos</h2>
